@@ -1,0 +1,18 @@
+.tipalti-table-style {
+  width: 100%; /* Ensure the table takes the full width */
+  margin-top: 50px; /* Space between the header and the table */
+  border-collapse: collapse; /*Remove gaps between table cells */
+}
+
+.tipalti-table-style th {
+  background-color: #eeeff0; /*grey colour for the header */
+  padding: 10px;
+  border: 1px solid #ccc;
+  text-align: left;
+}
+
+.tipalti-table-style td {
+  padding: 10px;
+  border: 1px solid #ccc; /*divider*/
+  text-align: left;
+}
