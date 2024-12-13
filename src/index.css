@@ -78,3 +78,8 @@ a {
   color: #0070f3;
   text-decoration: none;
 }
+
+.button-text-only {
+  background: none;
+  border: none;
+}
