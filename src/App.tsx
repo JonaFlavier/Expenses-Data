@@ -184,7 +184,7 @@ function App() {
 
           {buttonArray.map((value, index) => (
             <button key={index} onClick={() => handleDynamic(value)}>
-              {index + 1}
+              {value}
             </button>
           ))}
 
