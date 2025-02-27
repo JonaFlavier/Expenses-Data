@@ -1,4 +1,4 @@
-## Tipalti React Takehome Task
+## Data Visualisation Task
 
 To run the code for this task locally please follow the instructions below once the repository has been locally cloned.
 
